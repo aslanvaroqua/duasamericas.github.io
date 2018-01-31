@@ -1,10 +1,10 @@
-@type: Organization
-
-  - headline: Cut Costs, Not Corners
-  - description: Duas Americas Group, Inc is an American Multinational Corporation that provides business consulting, information technology, and outsourcing services.
-  - url: "http://duasamericasgroup.com"
-  @type: logo: "../css/2016_style/img/logos/aslan-varoqua-greenblue-duas-logo.png"
-    - url: "../css/2016_style/img/logos/aslan-varoqua-greenblue-duas-logo.png"
+type: Organization
+headline: Cut Costs, Not Corners
+description: Duas Americas Group, Inc is an American Multinational Corporation that provides business consulting, information technology, and outsourcing services.
+url: "http://duasamericasgroup.com"
+ 
+logo: "../css/2016_style/img/logos/aslan-varoqua-greenblue-duas-logo.png"
+image: "../css/2016_style/img/logos/aslan-varoqua-greenblue-duas-logo.png"
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
