@@ -1,16 +1,3 @@
-type: Organization
-name: Duas Americas Group, Inc
-description: Duas Americas Group, Inc is an American Multinational Corporation that provides business consulting, information technology, and outsourcing services.
-  CEO: Aslan Varoqua
-  COO: Daniel Vieira
-  CSO: Dawn Clark-Montenegro
-  logo : "../css/2016_style/img/logos/aslan-varoqua-greenblue-duas-logo.png" 
-  image: "../css/2016_style/img/logos/aslan-varoqua-greenblue-duas-logo.png" 
-  url: "http://duasamericasgroup.com/"
-
-
-
-
 title: Duas Americas | Aslan Varoqua & Daniel Vieira
 description: > # this means to ignore newlines until "baseurl:"
   Founded by Aslan Varoqua and Daniel Vieira Duas Americas Group is an American Multinational Corporation that provides business consulting, information technology, and outsourcing services.
@@ -29,7 +16,7 @@ social:
   link: "https://www.facebook.com/duasamericasgroup"
 
 image: "../css/2016_style/img/logos/aslan-varoqua-greenblue-duas-logo.png"
-author: Aslan Varoqua
+author: Aslan Varoqua http://duasamericasgroup/
 
 
 google_site_verification: google39cf25423549c9c.html
