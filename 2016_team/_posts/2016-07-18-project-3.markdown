@@ -1,0 +1,12 @@
+---
+title: Aslan Varoqua
+name: Name-2
+subtitle: Chief Executive Officer
+layout: 2017_default
+modal-id: 1
+img: aslan-varoqua-duas-ceo.jpg
+thumbnail: aslan-varoqua-duas-ceo.jpg
+alt: Picture of Aslan Varoqua
+topic: Aslan Varoqua - Chief Executive
+description: Aslan Varoqua is Chief Executive Officer of Duas Americas Group, Inc
+---

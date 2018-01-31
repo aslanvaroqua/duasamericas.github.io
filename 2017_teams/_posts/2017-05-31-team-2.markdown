@@ -1,0 +1,12 @@
+---
+title: Daniel Vieira
+name: Name 2
+subtitle: Chief Operations Officer
+layout: 2017_default
+img: daniel-vieira-brazil-coo.jpg
+thumbnail: daniel-vieira-brazil-coo.jpg
+alt: Picture of Daniel Viera COO
+description: Cheif Operating Officer and head of Duas Americas' South America operations.
+---
+
+
