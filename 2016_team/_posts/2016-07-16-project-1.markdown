@@ -4,8 +4,8 @@ name: Name-1
 subtitle: Chief Strategic Planning Officer
 layout: 2017_default
 modal-id: 1
-img: dawn-clark-duas-cso.jpg
-thumbnail: dawn-clark-duas-cso.jpg
+img: dawn-clark-duas-cso.png
+thumbnail: dawn-clark-duas-cso.png
 alt: Picture of Dawn Clark CSO
 topic: Strategy
 description: Based out of San Francisco, California, Dawn assists the chief executive officer with developing, communicating, executing, and sustaining strategy. 
