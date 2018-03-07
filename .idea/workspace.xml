@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8822760d-7089-4ec8-9b87-32c28d51c4f7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/2016_data/contact.html" afterPath="$PROJECT_DIR$/_includes/2016_data/contact.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/2017_data/contact.html" afterPath="$PROJECT_DIR$/_includes/2017_data/contact.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,11 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/2016_data/contact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="173">
               <caret line="10" column="122" lean-forward="false" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="122" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/2017_data/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="10" column="122" lean-forward="false" selection-start-line="10" selection-start-column="122" selection-end-line="10" selection-end-column="122" />
               <folding />
             </state>
           </provider>
@@ -75,6 +85,7 @@
         <option value="$PROJECT_DIR$/_includes/2017_data/about.html" />
         <option value="$PROJECT_DIR$/_includes/2017_data/sponsors.html" />
         <option value="$PROJECT_DIR$/_includes/2016_data/contact.html" />
+        <option value="$PROJECT_DIR$/_includes/2017_data/contact.html" />
       </list>
     </option>
   </component>
@@ -85,8 +96,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="97" />
-    <option name="y" value="73" />
+    <option name="x" value="-201" />
+    <option name="y" value="65" />
     <option name="width" value="1607" />
     <option name="height" value="694" />
   </component>
@@ -161,15 +172,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520393291297</updated>
-      <workItem from="1520393294496" duration="3144000" />
+      <workItem from="1520393294496" duration="3190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3144000" />
+    <option name="totallyTimeSpent" value="3190000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="73" width="1607" height="694" extended-state="0" />
+    <frame x="-201" y="65" width="1607" height="694" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20908526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -229,6 +241,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="10" column="122" lean-forward="false" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/2017_data/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="10" column="122" lean-forward="false" selection-start-line="10" selection-start-column="122" selection-end-line="10" selection-end-column="122" />
           <folding />
         </state>
       </provider>
