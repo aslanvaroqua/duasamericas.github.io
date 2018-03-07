@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8822760d-7089-4ec8-9b87-32c28d51c4f7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/2016_data/about.html" afterPath="$PROJECT_DIR$/_includes/2016_data/about.html" />
-      <change beforePath="$PROJECT_DIR$/_includes/2017_data/about.html" afterPath="$PROJECT_DIR$/_includes/2017_data/about.html" />
+      <change beforePath="$PROJECT_DIR$/_includes/2017_data/sponsors.html" afterPath="$PROJECT_DIR$/_includes/2017_data/sponsors.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sponsors.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sponsors.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/2017_data/sponsors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="21" column="135" lean-forward="false" selection-start-line="21" selection-start-column="135" selection-end-line="21" selection-end-column="135" />
+            <state relative-caret-position="252">
+              <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -37,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/2017_data/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="317">
-              <caret line="70" column="88" lean-forward="false" selection-start-line="70" selection-start-column="88" selection-end-line="70" selection-end-column="88" />
+              <caret line="70" column="100" lean-forward="true" selection-start-line="70" selection-start-column="100" selection-end-line="70" selection-end-column="100" />
               <folding />
             </state>
           </provider>
@@ -61,9 +60,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/2017_data/sponsors.html" />
         <option value="$PROJECT_DIR$/_includes/2016_data/about.html" />
         <option value="$PROJECT_DIR$/_includes/2017_data/about.html" />
+        <option value="$PROJECT_DIR$/_includes/2017_data/sponsors.html" />
       </list>
     </option>
   </component>
@@ -150,12 +149,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520393291297</updated>
-      <workItem from="1520393294496" duration="2311000" />
+      <workItem from="1520393294496" duration="2412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2311000" />
+    <option name="totallyTimeSpent" value="2412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="74" width="1607" height="694" extended-state="0" />
@@ -191,10 +190,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/2017_data/sponsors.html">
+    <entry file="file://$PROJECT_DIR$/_includes/2017_data/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="21" column="135" lean-forward="false" selection-start-line="21" selection-start-column="135" selection-end-line="21" selection-end-column="135" />
+        <state relative-caret-position="317">
+          <caret line="70" column="100" lean-forward="true" selection-start-line="70" selection-start-column="100" selection-end-line="70" selection-end-column="100" />
           <folding />
         </state>
       </provider>
@@ -207,10 +206,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/2017_data/about.html">
+    <entry file="file://$PROJECT_DIR$/_includes/2017_data/sponsors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="70" column="88" lean-forward="false" selection-start-line="70" selection-start-column="88" selection-end-line="70" selection-end-column="88" />
+        <state relative-caret-position="252">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
           <folding />
         </state>
       </provider>
